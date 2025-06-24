@@ -1,4 +1,4 @@
-## Oi eu sou o Cauã! estou cursando Sistemas de Informação na faculdade Uninta e atualmente no 4° semestre👋
+## Oi eu sou o Cauã! estou cursando Sistemas de Informação na faculdade Uninta e atualmente no 4° semestre
 Atualmente em formação contínua, com foco no estudo da linguagem Python e plano de expansão para outras tecnologias e linguagens de programação.
 
 <div>
