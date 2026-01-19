@@ -1,4 +1,4 @@
-## Oi, Sou Cauã! Estou Cursando o 4° Semestre de Sistemas de Informação na Faculdade Uninta.
+## Oi, Sou Cauã! Estou Cursando o 5° Semestre de Sistemas de Informação na Faculdade Uninta.
 Atualmente em formação contínua, com foco no estudo de linguagens como Python, Java, TypeScript e plano de expansão para outras tecnologias e linguagens de programação.
 
 <div>
